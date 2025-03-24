@@ -42,7 +42,7 @@ export default function Home() {
   }, [text]);
 
   return (
-    <>
+    <div className="flex flex-col min-h-screen">
       <Header />
       
       <Script id="schema-structured-data" type="application/ld+json">
@@ -62,12 +62,12 @@ export default function Home() {
           "creator": {
             "@type": "Organization",
             "name": "Blue Ocean Records LLC",
-            "url": "https://prodbycabo.com"
+            "url": "https://cabobeats.com"
           }
         })}
       </Script>
       
-      <main className="container mx-auto px-4 py-6">
+      <main className="container mx-auto px-4 py-6 flex-grow">
         <div className="mb-6 bg-white p-4 rounded-md border border-gray-200">
           <h1 className="text-lg font-medium text-gray-800 mb-2">Spam Word Detector</h1>
           <p className="text-sm text-gray-600">
@@ -135,6 +135,6 @@ export default function Home() {
       </main>
       
       <Footer />
-    </>
+    </div>
   );
 }

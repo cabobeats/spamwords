@@ -5,8 +5,8 @@ const Footer: React.FC = () => {
   return (
     <footer className="bg-gray-900 text-white py-8 w-full border-t border-gray-700">
       <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
-          <div>
+        <div className="flex flex-wrap">
+          <div className="w-full md:w-1/3 mb-6 md:mb-0">
             <h3 className="text-sm font-medium mb-4 text-gray-300">About Spam Detector</h3>
             <p className="text-xs text-gray-500 mb-4">
               Our free spam word detection tool helps marketers, content creators, and email senders 
@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
             </p>
           </div>
           
-          <div>
+          <div className="w-full md:w-1/3 mb-6 md:mb-0">
             <h3 className="text-sm font-medium mb-4 text-gray-300">Related Tools</h3>
             <ul className="space-y-2">
               <li>
@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
             </ul>
           </div>
           
-          <div>
+          <div className="w-full md:w-1/3">
             <h3 className="text-sm font-medium mb-4 text-gray-300">Resources</h3>
             <ul className="space-y-2">
               <li>
@@ -74,7 +74,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a 
-                  href="mailto:info@prodbycabo.com"
+                  href="mailto:info@cabobeats.com"
                   className="text-xs text-gray-500 hover:text-blue-400"
                 >
                   Contact Support
@@ -82,7 +82,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a 
-                  href="https://prodbycabo.com"
+                  href="https://cabobeats.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs text-gray-500 hover:text-blue-400"
@@ -94,7 +94,7 @@ const Footer: React.FC = () => {
           </div>
         </div>
         
-        <div className="pt-4 border-t border-gray-800 text-center">
+        <div className="pt-6 mt-6 border-t border-gray-800 text-center">
           <p className="text-xs text-gray-600">
             Spam Words Detector - Free Tool to Analyze and Improve Email & Marketing Content
           </p>

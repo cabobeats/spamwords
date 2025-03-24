@@ -43,7 +43,7 @@ const Header: React.FC = () => {
               </li>
               <li>
                 <a 
-                  href="https://prodbycabo.com" 
+                  href="https://cabobeats.com" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-xs text-gray-400 hover:text-white transition-colors"

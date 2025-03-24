@@ -15,10 +15,10 @@ export const metadata: Metadata = {
 
 export default function TermsPage() {
   return (
-    <>
+    <div className="flex flex-col min-h-screen">
       <Header />
       
-      <main className="container mx-auto px-4 py-8">
+      <main className="container mx-auto px-4 py-8 flex-grow">
         <div className="bg-white rounded-md p-6 border border-gray-200">
           <h1 className="text-xl font-medium mb-6 text-gray-800">Terms and Conditions</h1>
           
@@ -72,10 +72,10 @@ export default function TermsPage() {
               <div>Sheridan, WY, 82801</div>
               <div className="mt-1">
                 <a 
-                  href="mailto:info@prodbycabo.com" 
+                  href="mailto:info@cabobeats.com"
                   className="text-blue-500 hover:underline"
                 >
-                  info@prodbycabo.com
+                  info@cabobeats.com
                 </a>
               </div>
             </address>
@@ -90,6 +90,6 @@ export default function TermsPage() {
       </main>
       
       <Footer />
-    </>
+    </div>
   );
 } 
