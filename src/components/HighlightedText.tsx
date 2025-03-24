@@ -12,7 +12,7 @@ const HighlightedText: React.FC<HighlightedTextViewProps> = ({ segments }) => {
   }
 
   return (
-    <div className="w-full p-3 border border-gray-200 rounded-md bg-white min-h-32 max-h-80 overflow-y-auto">
+    <div className="w-full p-3 border border-gray-200 rounded-md bg-white h-full overflow-y-auto">
       <p className="whitespace-pre-wrap break-words text-sm text-gray-700">
         {segments.map((segment, index) => {
           if (!segment.isSpam) {

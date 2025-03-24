@@ -7,373 +7,4355 @@
     "unnatural": "Phrases that sound unnatural in normal communication"
   },
   "words": [
-    {"term": "access", "score": 2, "category": "urgency"},
-    {"term": "here", "score": 4, "category": "urgency"},
-    {"term": "ad", "score": 1, "category": "shady"},
-    {"term": "access now", "score": 4, "category": "urgency"},
-    {"term": "act", "score": 3, "category": "urgency"},
-    {"term": "act immediately", "score": 7, "category": "urgency"},
-    {"term": "act now", "score": 8, "category": "urgency"},
-    {"term": "action", "score": 3, "category": "urgency"},
-    {"term": "action required", "score": 7, "category": "urgency"},
-    {"term": "apply here", "score": 2, "category": "urgency"},
-    {"term": "apply now", "score": 4, "category": "urgency"},
-    {"term": "apply online", "score": 2, "category": "urgency"},
-    {"term": "become a member", "score": 2, "category": "urgency"},
-    {"term": "before it's too late", "score": 8, "category": "urgency"},
-    {"term": "being a member", "score": 2, "category": "urgency"},
-    {"term": "buy", "score": 2, "category": "urgency"},
-    {"term": "buy direct", "score": 2, "category": "urgency"},
-    {"term": "buy now", "score": 5, "category": "urgency"},
-    {"term": "buy today", "score": 5, "category": "urgency"},
-    {"term": "call", "score": 2, "category": "urgency"},
-    {"term": "call free", "score": 3, "category": "urgency"},
-    {"term": "call me", "score": 2, "category": "urgency"},
-    {"term": "call now", "score": 5, "category": "urgency"},
-    {"term": "can we have a minute of your time?", "score": 5, "category": "urgency"},
-    {"term": "cancel now", "score": 5, "category": "urgency"},
-    {"term": "cancellation required", "score": 7, "category": "urgency"},
-    {"term": "claim now", "score": 5, "category": "urgency"},
-    {"term": "click", "score": 2, "category": "urgency"},
-    {"term": "click below", "score": 4, "category": "urgency"},
-    {"term": "click here", "score": 2, "category": "urgency"},
-    {"term": "click me to download", "score": 4, "category": "urgency"},
-    {"term": "click now", "score": 4, "category": "urgency"},
-    {"term": "click this link", "score": 4, "category": "urgency"},
-    {"term": "click to get", "score": 4, "category": "urgency"},
-    {"term": "click to remove", "score": 4, "category": "urgency"},
-    {"term": "contact us immediately", "score": 6, "category": "urgency"},
-    {"term": "deal ending soon", "score": 7, "category": "urgency"},
-    {"term": "do it now", "score": 7, "category": "urgency"},
-    {"term": "do it today", "score": 6, "category": "urgency"},
-    {"term": "don't delete", "score": 2, "category": "urgency"},
-    {"term": "don't hesitate", "score": 3, "category": "urgency"},
-    {"term": "don't wait", "score": 4, "category": "urgency"},
-    {"term": "don't delay", "score": 5, "category": "urgency"},
-    {"term": "don't miss out", "score": 5, "category": "urgency"},
-    {"term": "don't waste time", "score": 4, "category": "urgency"},
-    {"term": "ending soon", "score": 6, "category": "urgency"},
-    {"term": "exclusive deal", "score": 6, "category": "urgency"},
-    {"term": "exclusive offer", "score": 6, "category": "urgency"},
-    {"term": "exclusive access", "score": 5, "category": "urgency"},
-    {"term": "expire", "score": 4, "category": "urgency"},
-    {"term": "expires today", "score": 6, "category": "urgency"},
-    {"term": "expires soon", "score": 6, "category": "urgency"},
-    {"term": "expiring", "score": 5, "category": "urgency"},
-    {"term": "fast", "score": 3, "category": "urgency"},
-    {"term": "fast access", "score": 4, "category": "urgency"},
-    {"term": "final call", "score": 8, "category": "urgency"},
-    {"term": "final chance", "score": 7, "category": "urgency"},
-    {"term": "final notice", "score": 7, "category": "urgency"},
-    {"term": "final opportunity", "score": 7, "category": "urgency"},
-    {"term": "for instant access", "score": 5, "category": "urgency"},
-    {"term": "for a limited time", "score": 6, "category": "urgency"},
-    {"term": "for only", "score": 3, "category": "urgency"},
-    {"term": "for you", "score": 2, "category": "urgency"},
-    {"term": "get it away", "score": 4, "category": "urgency"},
-    {"term": "get it now", "score": 6, "category": "urgency"},
-    {"term": "get now", "score": 5, "category": "urgency"},
-    {"term": "get paid", "score": 2, "category": "urgency"},
-    {"term": "get started", "score": 2, "category": "urgency"},
-    {"term": "get started now", "score": 4, "category": "urgency"},
-    {"term": "get instant access", "score": 6, "category": "urgency"},
-    {"term": "get immediate access", "score": 6, "category": "urgency"},
-    {"term": "great offer", "score": 4, "category": "urgency"},
-    {"term": "hurry", "score": 4, "category": "urgency"},
-    {"term": "hurry up", "score": 5, "category": "urgency"},
-    {"term": "immediate", "score": 5, "category": "urgency"},
-    {"term": "immediately", "score": 4, "category": "urgency"},
-    {"term": "info you requested", "score": 3, "category": "urgency"},
-    {"term": "information you requested", "score": 3, "category": "urgency"},
-    {"term": "instant", "score": 4, "category": "urgency"},
-    {"term": "instant action", "score": 5, "category": "urgency"},
-    {"term": "instant approval", "score": 6, "category": "urgency"},
-    {"term": "instant access", "score": 5, "category": "urgency"},
-    {"term": "last chance", "score": 7, "category": "urgency"},
-    {"term": "last opportunity", "score": 7, "category": "urgency"},
-    {"term": "limited availability", "score": 6, "category": "urgency"},
-    {"term": "limited offer", "score": 6, "category": "urgency"},
-    {"term": "limited spots", "score": 6, "category": "urgency"},
-    {"term": "limited time", "score": 5, "category": "urgency"},
-    {"term": "limited time only", "score": 6, "category": "urgency"},
-    {"term": "new customers only", "score": 7, "category": "urgency"},
-    {"term": "now", "score": 2, "category": "urgency"},
-    {"term": "now only", "score": 5, "category": "urgency"},
-    {"term": "offer expires", "score": 7, "category": "urgency"},
-    {"term": "once in a lifetime", "score": 8, "category": "urgency"},
-    {"term": "only", "score": 2, "category": "urgency"},
-    {"term": "only today", "score": 5, "category": "urgency"},
-    {"term": "only a few left", "score": 6, "category": "urgency"},
-    {"term": "only for a limited time", "score": 6, "category": "urgency"},
-    {"term": "order now", "score": 5, "category": "urgency"},
-    {"term": "order today", "score": 5, "category": "urgency"},
-    {"term": "order immediately", "score": 6, "category": "urgency"},
-    {"term": "please read", "score": 2, "category": "urgency"},
-    {"term": "now", "score": 2, "category": "urgency"},
-    {"term": "only", "score": 2, "category": "urgency"},
-    {"term": "purchase now", "score": 5, "category": "urgency"},
-    {"term": "quick", "score": 3, "category": "urgency"},
-    {"term": "running out", "score": 5, "category": "urgency"},
-    {"term": "rush", "score": 5, "category": "urgency"},
-    {"term": "sign up free", "score": 2, "category": "urgency"},
-    {"term": "sign up free today", "score": 4, "category": "urgency"},
-    {"term": "sign up now", "score": 4, "category": "urgency"},
-    {"term": "sign up immediately", "score": 5, "category": "urgency"},
-    {"term": "start now", "score": 4, "category": "urgency"},
-    {"term": "supplies are limited", "score": 6, "category": "urgency"},
-    {"term": "take action", "score": 4, "category": "urgency"},
-    {"term": "take action now", "score": 6, "category": "urgency"},
-    {"term": "this won't last", "score": 6, "category": "urgency"},
-    {"term": "time is limited", "score": 6, "category": "urgency"},
-    {"term": "time limited", "score": 5, "category": "urgency"},
-    {"term": "time sensitive", "score": 6, "category": "urgency"},
-    {"term": "time running out", "score": 6, "category": "urgency"},
-    {"term": "today", "score": 3, "category": "urgency"},
-    {"term": "today only", "score": 5, "category": "urgency"},
-    {"term": "top urgent", "score": 7, "category": "urgency"},
-    {"term": "trial", "score": 4, "category": "urgency"},
-    {"term": "urgent", "score": 7, "category": "urgency"},
-    {"term": "urgent action", "score": 8, "category": "urgency"},
-    {"term": "urgent notice", "score": 8, "category": "urgency"},
-    {"term": "urgent response needed", "score": 8, "category": "urgency"},
-    {"term": "what are you waiting for?", "score": 5, "category": "urgency"},
-    {"term": "while supplies last", "score": 6, "category": "urgency"},
-    {"term": "you are a winner", "score": 6, "category": "urgency"},
-    {"term": "0 down", "score": 2, "category": "shady"},
-    {"term": "4U", "score": 4, "category": "shady"},
-    {"term": "advertisement", "score": 2, "category": "shady"},
-    {"term": "all natural", "score": 3, "category": "shady"},
-    {"term": "all new", "score": 3, "category": "shady"},
-    {"term": "all-natural", "score": 3, "category": "shady"},
-    {"term": "all-new", "score": 3, "category": "shady"},
-    {"term": "allowance", "score": 2, "category": "shady"},
-    {"term": "as seen on", "score": 3, "category": "shady"},
-    {"term": "as seen on tv", "score": 4, "category": "shady"},
-    {"term": "as seen on oprah", "score": 5, "category": "shady"},
-    {"term": "at no cost", "score": 3, "category": "shady"},
-    {"term": "auto email removal", "score": 6, "category": "shady"},
-    {"term": "avoid", "score": 4, "category": "shady"},
-    {"term": "beneficial offer", "score": 6, "category": "shady"},
-    {"term": "beneficiary", "score": 2, "category": "shady"},
-    {"term": "brand new pager", "score": 4, "category": "shady"},
-    {"term": "bulk email", "score": 8, "category": "shady"},
-    {"term": "credit", "score": 8, "category": "shady"},
-    {"term": "buying judgements", "score": 9, "category": "shady"},
-    {"term": "buying judgments", "score": 9, "category": "shady"},
-    {"term": "cable converter", "score": 4, "category": "shady"},
-    {"term": "calling creditors", "score": 6, "category": "shady"},
-    {"term": "can you help us?", "score": 5, "category": "shady"},
-    {"term": "cancel at any time", "score": 2, "category": "shady"},
-    {"term": "cannot be combined", "score": 3, "category": "shady"},
-    {"term": "celebrity", "score": 4, "category": "shady"},
-    {"term": "cell phone cancer scam", "score": 9, "category": "shady"},
-    {"term": "certified", "score": 3, "category": "shady"},
-    {"term": "chance", "score": 4, "category": "shady"},
-    {"term": "cheap", "score": 4, "category": "shady"},
-    {"term": "cheap meds", "score": 9, "category": "shady"},
-    {"term": "cialis", "score": 10, "category": "shady"},
-    {"term": "claims", "score": 5, "category": "shady"},
-    {"term": "claims not to be selling anything", "score": 6, "category": "shady"},
-    {"term": "claims to be in accordance with some spam law", "score": 7, "category": "shady"},
-    {"term": "claims to be legal", "score": 2, "category": "shady"},
-    {"term": "clearance", "score": 3, "category": "shady"},
-    {"term": "collect", "score": 1, "category": "shady"},
-    {"term": "collect child support", "score": 7, "category": "shady"},
-    {"term": "compare", "score": 1, "category": "shady"},
-    {"term": "compare now", "score": 5, "category": "shady"},
-    {"term": "compare online", "score": 4, "category": "shady"},
-    {"term": "compare rates", "score": 4, "category": "shady"},
-    {"term": "compete for your business", "score": 5, "category": "shady"},
-    {"term": "confidentiality", "score": 3, "category": "shady"},
-    {"term": "congratulations", "score": 5, "category": "shady"},
-    {"term": "congrats", "score": 5, "category": "shady"},
-    {"term": "consolidate debt and credit", "score": 6, "category": "shady"},
-    {"term": "consolidate your debt", "score": 5, "category": "shady"},
-    {"term": "copy accurately", "score": 2, "category": "shady"},
-    {"term": "copy dvds", "score": 6, "category": "shady"},
-    {"term": "covid", "score": 5, "category": "shady"},
-    {"term": "covid-19", "score": 5, "category": "shady"},
-    {"term": "cures", "score": 5, "category": "shady"},
-    {"term": "cures baldness", "score": 9, "category": "shady"},
-    {"term": "debt elimination", "score": 7, "category": "shady"},
-    {"term": "diagnostic", "score": 4, "category": "shady"},
-    {"term": "diet", "score": 4, "category": "shady"},
-    {"term": "diet pills", "score": 7, "category": "shady"},
-    {"term": "dig up dirt on friends", "score": 9, "category": "shady"},
-    {"term": "direct email", "score": 4, "category": "shady"},
-    {"term": "direct marketing", "score": 4, "category": "shady"},
-    {"term": "eliminate debt", "score": 7, "category": "shady"},
-    {"term": "explode your business", "score": 8, "category": "shady"},
-    {"term": "fast viagra delivery", "score": 9, "category": "shady"},
-    {"term": "finance", "score": 3, "category": "shady"},
-    {"term": "financial", "score": 3, "category": "shady"},
-    {"term": "financial advice", "score": 4, "category": "shady"},
-    {"term": "financial independence", "score": 6, "category": "shady"},
-    {"term": "financially independent", "score": 6, "category": "shady"},
-    {"term": "free", "score": 3, "category": "overpromise"},
-    {"term": "free access", "score": 6, "category": "overpromise"},
-    {"term": "free bonus", "score": 6, "category": "overpromise"},
-    {"term": "free gift", "score": 7, "category": "overpromise"},
-    {"term": "free money", "score": 10, "category": "overpromise"},
-    {"term": "free offer", "score": 6, "category": "overpromise"},
-    {"term": "free sample", "score": 6, "category": "overpromise"},
-    {"term": "free trial", "score": 5, "category": "overpromise"},
-    {"term": "guarantee", "score": 5, "category": "overpromise"},
-    {"term": "guaranteed", "score": 7, "category": "overpromise"},
-    {"term": "hidden", "score": 3, "category": "shady"},
-    {"term": "hidden fees", "score": 6, "category": "shady"},
-    {"term": "incredible deal", "score": 5, "category": "overpromise"},
-    {"term": "investment", "score": 4, "category": "money"},
-    {"term": "limited time offer", "score": 4, "category": "urgency"},
-    {"term": "lose weight", "score": 6, "category": "shady"},
-    {"term": "lose weight fast", "score": 8, "category": "shady"},
-    {"term": "lottery", "score": 7, "category": "shady"},
-    {"term": "make money", "score": 5, "category": "overpromise"},
-    {"term": "meet singles", "score": 8, "category": "shady"},
-    {"term": "million", "score": 5, "category": "overpromise"},
-    {"term": "million dollars", "score": 6, "category": "overpromise"},
-    {"term": "miracle", "score": 7, "category": "overpromise"},
-    {"term": "money back", "score": 4, "category": "overpromise"},
-    {"term": "mortgage", "score": 5, "category": "money"},
-    {"term": "no cost", "score": 2, "category": "shady"},
-    {"term": "no credit check", "score": 3, "category": "shady"},
-    {"term": "no experience", "score": 3, "category": "shady"},
-    {"term": "no fees", "score": 2, "category": "shady"},
-    {"term": "no hidden costs", "score": 2, "category": "shady"},
-    {"term": "no obligation", "score": 2, "category": "shady"},
-    {"term": "no strings attached", "score": 2, "category": "shady"},
-    {"term": "not spam", "score": 2, "category": "shady"},
-    {"term": "opportunity", "score": 3, "category": "shady"},
-    {"term": "refinance", "score": 5, "category": "money"},
-    {"term": "risk free", "score": 5, "category": "shady"},
-    {"term": "risk-free", "score": 6, "category": "overpromise"},
-    {"term": "satisfaction guaranteed", "score": 4, "category": "overpromise"},
-    {"term": "special offer", "score": 4, "category": "shady"},
-    {"term": "unbelievable", "score": 6, "category": "overpromise"},
-    {"term": "unlimited", "score": 3, "category": "overpromise"},
-    {"term": "viagra", "score": 10, "category": "shady"},
-    {"term": "weight loss", "score": 7, "category": "shady"},
-    {"term": "winner", "score": 7, "category": "shady"},
-    {"term": "work from home", "score": 3, "category": "unnatural"},
-    {"term": "you have been selected", "score": 7, "category": "shady"},
-    {"term": "$$$", "score": 6, "category": "money"},
-    {"term": "50% off", "score": 5, "category": "money"},
-    {"term": "cash", "score": 3, "category": "money"},
-    {"term": "credit card", "score": 5, "category": "money"},
-    {"term": "double your", "score": 4, "category": "money"},
-    {"term": "earn", "score": 4, "category": "money"},
-    {"term": "income", "score": 4, "category": "money"},
-    {"term": "money", "score": 3, "category": "money"},
-    {"term": "profits", "score": 4, "category": "money"},
-    {"term": "credit", "score": 4, "category": "money"},
-    {"term": "credit report", "score": 5, "category": "money"},
-    {"term": "credit score", "score": 4, "category": "money"},
-    {"term": "cryptocurrency", "score": 6, "category": "money"},
-    {"term": "bitcoin", "score": 6, "category": "money"},
-    {"term": "ethereum", "score": 6, "category": "money"},
-    {"term": "dogecoin", "score": 6, "category": "money"},
-    {"term": "cashapp", "score": 5, "category": "money"},
-    {"term": "paypal", "score": 4, "category": "money"},
-    {"term": "venmo", "score": 4, "category": "money"},
-    {"term": "unlimited", "score": 4, "category": "money"},
-    {"term": "offer", "score": 4, "category": "money"},
-    {"term": "bank account", "score": 6, "category": "money"},
-    {"term": "bank transfer", "score": 6, "category": "money"},
-    {"term": "wire transfer", "score": 7, "category": "money"},
-    {"term": "western union", "score": 7, "category": "money"},
-    {"term": "moneygram", "score": 7, "category": "money"},
-    {"term": "loan approval", "score": 6, "category": "money"},
-    {"term": "auto loan", "score": 5, "category": "money"},
-    {"term": "payday loan", "score": 8, "category": "money"},
-    {"term": "debt consolidation", "score": 6, "category": "money"},
-    {"term": "tax refund", "score": 5, "category": "money"},
-    {"term": "irs", "score": 5, "category": "money"},
-    {"term": "tax return", "score": 5, "category": "money"},
-    {"term": "investment opportunity", "score": 6, "category": "money"},
-    {"term": "stock market", "score": 5, "category": "money"},
-    {"term": "stock investment", "score": 6, "category": "money"},
-    {"term": "market returns", "score": 5, "category": "money"},
-    {"term": "high returns", "score": 7, "category": "overpromise"},
-    {"term": "big returns", "score": 7, "category": "overpromise"},
-    {"term": "double your money", "score": 8, "category": "overpromise"},
-    {"term": "triple your money", "score": 9, "category": "overpromise"},
-    {"term": "become rich", "score": 7, "category": "overpromise"},
-    {"term": "get rich", "score": 7, "category": "overpromise"},
-    {"term": "get rich quick", "score": 9, "category": "overpromise"},
-    {"term": "earn from home", "score": 5, "category": "overpromise"},
-    {"term": "passive income", "score": 6, "category": "overpromise"},
-    {"term": "residual income", "score": 6, "category": "overpromise"},
-    {"term": "easy money", "score": 7, "category": "overpromise"},
-    {"term": "easy cash", "score": 7, "category": "overpromise"},
-    {"term": "fast cash", "score": 7, "category": "overpromise"},
-    {"term": "quick cash", "score": 7, "category": "overpromise"},
-    {"term": "quick money", "score": 7, "category": "overpromise"},
-    {"term": "instant cash", "score": 7, "category": "overpromise"},
-    {"term": "instant money", "score": 7, "category": "overpromise"},
-    {"term": "amazing results", "score": 6, "category": "overpromise"},
-    {"term": "incredible results", "score": 6, "category": "overpromise"},
-    {"term": "life-changing", "score": 6, "category": "overpromise"},
-    {"term": "revolutionary", "score": 5, "category": "overpromise"},
-    {"term": "breakthrough", "score": 5, "category": "overpromise"},
-    {"term": "scientifically proven", "score": 6, "category": "overpromise"},
-    {"term": "clinically proven", "score": 6, "category": "overpromise"},
-    {"term": "never seen before", "score": 5, "category": "overpromise"},
-    {"term": "never before seen", "score": 5, "category": "overpromise"},
-    {"term": "exclusive opportunity", "score": 6, "category": "overpromise"},
-    {"term": "once-in-a-lifetime opportunity", "score": 7, "category": "overpromise"},
-    {"term": "secret method", "score": 6, "category": "overpromise"},
-    {"term": "secret formula", "score": 6, "category": "overpromise"},
-    {"term": "secret technique", "score": 6, "category": "overpromise"},
-    {"term": "secret system", "score": 6, "category": "overpromise"},
-    {"term": "secret trick", "score": 6, "category": "overpromise"},
-    {"term": "hidden secret", "score": 6, "category": "overpromise"},
-    {"term": "confidential", "score": 3, "category": "unnatural"},
-    {"term": "strictly confidential", "score": 5, "category": "unnatural"},
-    {"term": "private message", "score": 4, "category": "unnatural"},
-    {"term": "private invitation", "score": 5, "category": "unnatural"},
-    {"term": "private access", "score": 5, "category": "unnatural"},
-    {"term": "automated system", "score": 4, "category": "unnatural"},
-    {"term": "auto-responder", "score": 5, "category": "unnatural"},
-    {"term": "this email is not spam", "score": 7, "category": "unnatural"},
-    {"term": "this is not spam", "score": 7, "category": "unnatural"},
-    {"term": "legal notice", "score": 5, "category": "unnatural"},
-    {"term": "attention", "score": 3, "category": "unnatural"},
-    {"term": "your attention required", "score": 6, "category": "unnatural"},
-    {"term": "dear friend", "score": 5, "category": "unnatural"},
-    {"term": "dear valued customer", "score": 5, "category": "unnatural"},
-    {"term": "dear customer", "score": 4, "category": "unnatural"},
-    {"term": "dear sir/madam", "score": 4, "category": "unnatural"},
-    {"term": "important information", "score": 4, "category": "unnatural"},
-    {"term": "important message", "score": 4, "category": "unnatural"},
-    {"term": "online business", "score": 4, "category": "unnatural"},
-    {"term": "home employment", "score": 5, "category": "unnatural"},
-    {"term": "home-based", "score": 3, "category": "unnatural"},
-    {"term": "home-based business", "score": 5, "category": "unnatural"},
-    {"term": "homebased business", "score": 5, "category": "unnatural"},
-    {"term": "work at home", "score": 5, "category": "unnatural"},
-    {"term": "work from anywhere", "score": 5, "category": "unnatural"},
-    {"term": "work remotely", "score": 4, "category": "unnatural"},
-    {"term": "earn while you sleep", "score": 7, "category": "unnatural"},
-    {"term": "foreign", "score": 3, "category": "unnatural"},
-    {"term": "overseas", "score": 3, "category": "unnatural"},
-    {"term": "offshore", "score": 5, "category": "unnatural"},
-    {"term": "offshore account", "score": 7, "category": "unnatural"},
-    {"term": "to whom it may concern", "score": 4, "category": "unnatural"},
-    {"term": "sent in compliance", "score": 5, "category": "unnatural"},
-    {"term": "in accordance with", "score": 4, "category": "unnatural"},
-    {"term": "per your request", "score": 3, "category": "unnatural"},
-    {"term": "as per your request", "score": 3, "category": "unnatural"},
-    {"term": "as agreed", "score": 3, "category": "unnatural"},
-    {"term": "as discussed", "score": 3, "category": "unnatural"},
-    {"term": "pursuant to", "score": 3, "category": "unnatural"},
-    {"term": "kindly", "score": 2, "category": "unnatural"},
-    {"term": "herein", "score": 3, "category": "unnatural"},
-    {"term": "hereby", "score": 3, "category": "unnatural"},
-    {"term": "herewith", "score": 3, "category": "unnatural"},
-    {"term": "hereunder", "score": 3, "category": "unnatural"},
-    {"term": "electronic mail", "score": 3, "category": "unnatural"},
-    {"term": "electronic message", "score": 3, "category": "unnatural"},
-    {"term": "this correspondence", "score": 3, "category": "unnatural"},
-    {"term": "this communication", "score": 3, "category": "unnatural"}
+    {
+      "term": "access",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "here",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "ad",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "access now",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "act",
+      "score": 3,
+      "category": "urgency"
+    },
+    {
+      "term": "act immediately",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "act now",
+      "score": 8,
+      "category": "urgency"
+    },
+    {
+      "term": "action",
+      "score": 3,
+      "category": "urgency"
+    },
+    {
+      "term": "action required",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "apply here",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "apply now",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "apply online",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "become a member",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "before it's too late",
+      "score": 8,
+      "category": "urgency"
+    },
+    {
+      "term": "being a member",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "buy",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "buy direct",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "buy now",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "buy today",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "call",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "call free",
+      "score": 3,
+      "category": "urgency"
+    },
+    {
+      "term": "call me",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "call now",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "can we have a minute of your time?",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "cancel now",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "cancellation required",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "claim now",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "click",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "click below",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "click here",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "click me to download",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "click now",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "click this link",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "click to get",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "click to remove",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "contact us immediately",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "deal ending soon",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "do it now",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "do it today",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "don't delete",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "don't hesitate",
+      "score": 3,
+      "category": "urgency"
+    },
+    {
+      "term": "don't wait",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "don't delay",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "don't miss out",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "don't waste time",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "ending soon",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "exclusive deal",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "exclusive offer",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "exclusive access",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "expire",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "expires today",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "expires soon",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "expiring",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "fast",
+      "score": 3,
+      "category": "urgency"
+    },
+    {
+      "term": "fast access",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "final call",
+      "score": 8,
+      "category": "urgency"
+    },
+    {
+      "term": "final chance",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "final notice",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "final opportunity",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "for instant access",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "for a limited time",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "for only",
+      "score": 3,
+      "category": "urgency"
+    },
+    {
+      "term": "for you",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "get it away",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "get it now",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "get now",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "get paid",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "get started",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "get started now",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "get instant access",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "get immediate access",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "great offer",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "hurry",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "hurry up",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "immediate",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "immediately",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "info you requested",
+      "score": 3,
+      "category": "urgency"
+    },
+    {
+      "term": "information you requested",
+      "score": 3,
+      "category": "urgency"
+    },
+    {
+      "term": "instant",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "instant action",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "instant approval",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "instant access",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "last chance",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "last opportunity",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "limited availability",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "limited offer",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "limited spots",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "limited time",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "limited time only",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "new customers only",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "now",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "now only",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "offer expires",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "once in a lifetime",
+      "score": 8,
+      "category": "urgency"
+    },
+    {
+      "term": "only",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "only today",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "only a few left",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "only for a limited time",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "order now",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "order today",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "order immediately",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "please read",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "now",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "only",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "purchase now",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "quick",
+      "score": 3,
+      "category": "urgency"
+    },
+    {
+      "term": "running out",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "rush",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "sign up free",
+      "score": 2,
+      "category": "urgency"
+    },
+    {
+      "term": "sign up free today",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "sign up now",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "sign up immediately",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "start now",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "supplies are limited",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "take action",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "take action now",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "this won't last",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "time is limited",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "time limited",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "time sensitive",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "time running out",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "today",
+      "score": 3,
+      "category": "urgency"
+    },
+    {
+      "term": "today only",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "top urgent",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "trial",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "urgent",
+      "score": 7,
+      "category": "urgency"
+    },
+    {
+      "term": "urgent action",
+      "score": 8,
+      "category": "urgency"
+    },
+    {
+      "term": "urgent notice",
+      "score": 8,
+      "category": "urgency"
+    },
+    {
+      "term": "urgent response needed",
+      "score": 8,
+      "category": "urgency"
+    },
+    {
+      "term": "what are you waiting for?",
+      "score": 5,
+      "category": "urgency"
+    },
+    {
+      "term": "while supplies last",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "you are a winner",
+      "score": 6,
+      "category": "urgency"
+    },
+    {
+      "term": "0 down",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "4U",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "advertisement",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "all natural",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "all new",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "all-natural",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "all-new",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "allowance",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "as seen on",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "as seen on tv",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "as seen on oprah",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "at no cost",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "auto email removal",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "avoid",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "beneficial offer",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "beneficiary",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "brand new pager",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "bulk email",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "credit",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "buying judgements",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "buying judgments",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "cable converter",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "calling creditors",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "can you help us?",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "cancel at any time",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "cannot be combined",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "celebrity",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "cell phone cancer scam",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "certified",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "chance",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "cheap",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "cheap meds",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "cialis",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "claims",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "claims not to be selling anything",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "claims to be in accordance with some spam law",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "claims to be legal",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "clearance",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "collect",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "collect child support",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "compare",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "compare now",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "compare online",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "compare rates",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "compete for your business",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "confidentiality",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "congratulations",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "congrats",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "consolidate debt and credit",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "consolidate your debt",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "copy accurately",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "copy dvds",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "covid",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "covid-19",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "cures",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "cures baldness",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "debt elimination",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "diagnostic",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "diet",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "diet pills",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "dig up dirt on friends",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "direct email",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "direct marketing",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "eliminate debt",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "explode your business",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "fast viagra delivery",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "finance",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "financial",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "financial advice",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "financial independence",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "financially independent",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "free",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "free access",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "free bonus",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "free gift",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "free money",
+      "score": 10,
+      "category": "overpromise"
+    },
+    {
+      "term": "free offer",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "free sample",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "free trial",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "guarantee",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "guaranteed",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "hidden",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "hidden fees",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "incredible deal",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "investment",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "limited time offer",
+      "score": 4,
+      "category": "urgency"
+    },
+    {
+      "term": "lose weight",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "lose weight fast",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "lottery",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "make money",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "meet singles",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "million",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "million dollars",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "miracle",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "money back",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "mortgage",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "no cost",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no credit check",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "no experience",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "no fees",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no hidden costs",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no obligation",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no strings attached",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "not spam",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "opportunity",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "refinance",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "risk free",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "risk-free",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "satisfaction guaranteed",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "special offer",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "unbelievable",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "unlimited",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "viagra",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "weight loss",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "winner",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "work from home",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "you have been selected",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "$$$",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "50% off",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "cash",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "credit card",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "double your",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "earn",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "income",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "money",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "profits",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "credit",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "credit report",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "credit score",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "cryptocurrency",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "bitcoin",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "ethereum",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "dogecoin",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "cashapp",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "paypal",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "venmo",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "unlimited",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "offer",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "bank account",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "bank transfer",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "wire transfer",
+      "score": 7,
+      "category": "money"
+    },
+    {
+      "term": "western union",
+      "score": 7,
+      "category": "money"
+    },
+    {
+      "term": "moneygram",
+      "score": 7,
+      "category": "money"
+    },
+    {
+      "term": "loan approval",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "auto loan",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "payday loan",
+      "score": 8,
+      "category": "money"
+    },
+    {
+      "term": "debt consolidation",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "tax refund",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "irs",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "tax return",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "investment opportunity",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "stock market",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "stock investment",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "market returns",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "high returns",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "big returns",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "double your money",
+      "score": 8,
+      "category": "overpromise"
+    },
+    {
+      "term": "triple your money",
+      "score": 9,
+      "category": "overpromise"
+    },
+    {
+      "term": "become rich",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "get rich",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "get rich quick",
+      "score": 9,
+      "category": "overpromise"
+    },
+    {
+      "term": "earn from home",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "passive income",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "residual income",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "easy money",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "easy cash",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "fast cash",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "quick cash",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "quick money",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "instant cash",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "instant money",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "amazing results",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "incredible results",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "life-changing",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "revolutionary",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "breakthrough",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "scientifically proven",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "clinically proven",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "never seen before",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "never before seen",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "exclusive opportunity",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "once-in-a-lifetime opportunity",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "secret method",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "secret formula",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "secret technique",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "secret system",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "secret trick",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "hidden secret",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "confidential",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "strictly confidential",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "private message",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "private invitation",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "private access",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "automated system",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "auto-responder",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "this email is not spam",
+      "score": 7,
+      "category": "unnatural"
+    },
+    {
+      "term": "this is not spam",
+      "score": 7,
+      "category": "unnatural"
+    },
+    {
+      "term": "legal notice",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "attention",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "your attention required",
+      "score": 6,
+      "category": "unnatural"
+    },
+    {
+      "term": "dear friend",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "dear valued customer",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "dear customer",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "dear sir/madam",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "important information",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "important message",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "online business",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "home employment",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "home-based",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "home-based business",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "homebased business",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "work at home",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "work from anywhere",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "work remotely",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "earn while you sleep",
+      "score": 7,
+      "category": "unnatural"
+    },
+    {
+      "term": "foreign",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "overseas",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "offshore",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "offshore account",
+      "score": 7,
+      "category": "unnatural"
+    },
+    {
+      "term": "to whom it may concern",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "sent in compliance",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "in accordance with",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "per your request",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "as per your request",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "as agreed",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "as discussed",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "pursuant to",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "kindly",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "herein",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "hereby",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "herewith",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "hereunder",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "electronic mail",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "electronic message",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "this correspondence",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "this communication",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "gift card",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "gift certificate",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "gift included",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "give it away",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "giving away",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "giving it away",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "gold",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "great",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "great deal",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "greetings of the day",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "growth hormone",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "guaranteed deposit",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "guaranteed income",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "guaranteed payment",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "have you been turned down?",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "hello (with no name included)",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "hidden charges",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "hidden costs",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "high score",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "home based business",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "home mortgage",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "human",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "human growth hormone",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "if only it were that easy",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "important notification",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "instant weight loss",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "insurance lose weight",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "internet marketing",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "investment decision",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "invoice",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "it's effective",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "job alert",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "junk",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "lambo",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "laser printer",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "last day",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "legal",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "life",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "life insurance",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "lifetime access",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "lifetime deal",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "limited",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "limited amount",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "limited number",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "limited supply",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "loan",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "long distance phone number",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "long distance phone offer",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "lose weight spam",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "lower interest rate",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "lower interest rates",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "lower monthly payment",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "lower your mortgage rate",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "lowest insurance rates",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "lowest interest rate",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "lowest rate",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "lowest rates",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "luxury",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "luxury car",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "mail in order form",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "mark this as not junk",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "mass email",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "medical",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "medicine",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "meet girls",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "meet me",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "meet women",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "member",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "member stuff",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "message contains disclaimer",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "message from",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "millionaire",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "millions",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "mlm",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "multi-level marketing",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "name",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "near you",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "never before",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "new",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "new domain extensions",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "nigerian",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "no age restrictions",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "no catch",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no claim forms",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no deposit required",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "no disappointment",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no gimmick",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no hidden",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no interest",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no interests",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no inventory",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no investment",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no investment required",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "no medical exams",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "no middleman",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no payment required",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no purchase necessary",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no questions asked",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no selling",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "no-obligation",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "nominated bank account",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "not intended",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "not junk",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "not scam",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "notspam",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "number 1",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "obligation",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "off",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "off everything",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "off shore",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "offer extended",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "offers",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "one hundred percent",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "one-time",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "online biz opportunity",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "online degree",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "online income",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "online job",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "open",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "opt-in",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "order",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "order shipped by",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "order status",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "orders shipped by",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "orders shipped by shopper",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "outstanding value",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "outstanding values",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "password",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "passwords",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "pay your bills",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "per year",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "per month",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "perfect",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "performance",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "phone",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "please",
+      "score": 1,
+      "category": "shady"
+    },
+    {
+      "term": "please open",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "presently",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "print form signature",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "print from signature",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "print out and fax",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "priority mail",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "privately owned funds",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "prizes",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "problem with shipping",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "problem with your order",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "produced and sent out",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "profit",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "promise you",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "purchase",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "pure profits",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "quotes",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "rate",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "real thing",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "rebate",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "reduce debt",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "refinance home",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "refinanced home",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "refund",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "regarding",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "removal instructions",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "removes",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "removes wrinkles",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "replica watches",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "request",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "request now",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "request today",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "requires initial investment",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "requires investment",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "reverses aging",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "rolex",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "round the world",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "safeguard notice",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "sale",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "sales",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "save",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "save big",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "save big month",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "save money",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "save now",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "score with babes",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "search engine optimisation",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "section 301",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "see for yourself",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "seen on",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "serious",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "serious case",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "serious offer",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "serious only",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "sex",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "shop now",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "shopper",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "shopping spree",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "snoring",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "social security number",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "soon",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "spam",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "spam free",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "special deal",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "special discount",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "special for you",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "stainless steel",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "stock alert",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "stock disclaimer statement",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "stock pick",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "stocks/stock pick/stock alert",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "stop calling me",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "stop emailing me",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "stop further distribution",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "stop snoring",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "strong buy",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "stuff on sale",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "subject to",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "subject to cash",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "subscribe",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "subscribe for free",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "subscribe now",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "super promo",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "supplies",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "this is an ad",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "terms",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "the best rates",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "the following form",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "they make a claim or claims that they're in accordance with spam law",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "they try to keep your money no refund",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "they're just giving it away",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "this isn't junk",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "this isn't spam",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "this isn't a scam",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "timeshare",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "timeshare offers",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "traffic",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "trial unlimited",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "u.s. dollars",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "undisclosed",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "undisclosed recipient",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "university diplomas",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "unsecured credit",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "unsecured debt",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "unsolicited",
+      "score": 9,
+      "category": "shady"
+    },
+    {
+      "term": "unsubscribe",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "urgent response",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "euros",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "vacation",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "vacation offers",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "valium",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "vip",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "visit our website",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "wants credit card",
+      "score": 8,
+      "category": "shady"
+    },
+    {
+      "term": "warranty expired",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "we hate spam",
+      "score": 2,
+      "category": "shady"
+    },
+    {
+      "term": "we honor all",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "website visitors",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "weekend getaway",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "what's keeping you?",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "while available",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "while in stock",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "while stocks last",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "while you sleep",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "who really wins?",
+      "score": 6,
+      "category": "shady"
+    },
+    {
+      "term": "win",
+      "score": 3,
+      "category": "shady"
+    },
+    {
+      "term": "winning",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "won",
+      "score": 5,
+      "category": "shady"
+    },
+    {
+      "term": "xanax",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "xxx",
+      "score": 10,
+      "category": "shady"
+    },
+    {
+      "term": "you have been chosen",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "your chance",
+      "score": 7,
+      "category": "shady"
+    },
+    {
+      "term": "your status",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "zero chance",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "zero percent",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "zero risk",
+      "score": 4,
+      "category": "shady"
+    },
+    {
+      "term": "#1",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "%",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "% free",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "% satisfied",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "0%",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "0% risk",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "100%",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "100% free",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "100% more",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "100% off",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "100% satisfied",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "99.90%",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "99%",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "access for free",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "additional income",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "amazed",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "amazing",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "amazing offer",
+      "score": 8,
+      "category": "overpromise"
+    },
+    {
+      "term": "amazing stuff",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "be amazed",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "be surprised",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "be your own boss",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "believe me",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "best bargain",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "best deal",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "best offer",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "best price",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "best rates",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "big bucks",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "bonus",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "boss",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "can't live without",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "cancel",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "consolidate debt",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "double your cash",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "double your income",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "drastically reduced",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "earn extra cash",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "earn money",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "eliminate bad credit",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "expect to earn",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "extra",
+      "score": 2,
+      "category": "overpromise"
+    },
+    {
+      "term": "extra cash",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "extra income",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "fantastic",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "fantastic deal",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "fantastic offer",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "financial freedom",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "free consultation",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "free hosting",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "free info",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "free investment",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "free membership",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "free preview",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "free quote",
+      "score": 7,
+      "category": "overpromise"
+    },
+    {
+      "term": "full refund",
+      "score": 2,
+      "category": "overpromise"
+    },
+    {
+      "term": "get out of debt",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "giveaway",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "increase sales",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "increase traffic",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "join billions",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "join millions",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "join millions of americans",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "join thousands",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "lower rates",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "lowest price",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "month trial offer",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "more internet traffic",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "number one",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "one hundred percent guaranteed",
+      "score": 6,
+      "category": "overpromise"
+    },
+    {
+      "term": "one time",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "pennies a day",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "potential earnings",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "prize",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "promise",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "pure profit",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "save big money",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "save up to",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "special promotion",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "the best",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "thousands",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "unbeatable offer",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "unlimited trial",
+      "score": 4,
+      "category": "overpromise"
+    },
+    {
+      "term": "wonderful",
+      "score": 3,
+      "category": "overpromise"
+    },
+    {
+      "term": "you will not believe your eyes",
+      "score": 5,
+      "category": "overpromise"
+    },
+    {
+      "term": "a few bob",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "accept cash cards",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "accept credit cards",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "affordable",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "affordable deal",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "avoid bankruptcy",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "bad credit",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "bank",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "bankruptcy",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "bargain",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "billing",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "billing address",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "billion",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "billion dollars",
+      "score": 7,
+      "category": "money"
+    },
+    {
+      "term": "billionaire",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "card accepted",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "cards accepted",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "cash bonus",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "cash out",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "cash-out",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "cashcashcash",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "casino",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "cents on the dollar",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "check",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "check or money order",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "claim your discount",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "cost",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "costs",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "credit bureaus",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "credit card offers",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "credit or debit",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "deal",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "debt",
+      "score": 5,
+      "category": "money"
+    },
+    {
+      "term": "discount",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "dollars",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "double your wealth",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "earn $",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "earn cash",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "earn extra income",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "earn monthly",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "earn per month",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "earn per week",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "earn your degree",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "easy income",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "easy terms",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "f r e e",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "for free",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "for just $",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "for just $ (amount)",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "for just $xxx",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "get money",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "get your money",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "hidden assets",
+      "score": 6,
+      "category": "money"
+    },
+    {
+      "term": "huge discount",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "income from home",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "increase revenue",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "increase sales/traffic",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "increase your chances",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "initial investment",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "instant earnings",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "instant income",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "insurance",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "investment advice",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "lifetime",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "loans",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "make $",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "money making",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "money-back guarantee",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "money-making",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "monthly payment",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "only $",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "price",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "price protection",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "prices",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "quote",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "rates",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "save $",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "serious cash",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "subject to credit",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "us dollars",
+      "score": 2,
+      "category": "money"
+    },
+    {
+      "term": "why pay more?",
+      "score": 3,
+      "category": "money"
+    },
+    {
+      "term": "your income",
+      "score": 4,
+      "category": "money"
+    },
+    {
+      "term": "acceptance",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "accordingly",
+      "score": 1,
+      "category": "unnatural"
+    },
+    {
+      "term": "account-based marketing",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "accounts",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "addresses",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "addresses on cd",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "beverage",
+      "score": 1,
+      "category": "unnatural"
+    },
+    {
+      "term": "confidentiality on all orders",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "confidentially on all orders",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "content marketing",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "dear",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "dear,",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "digital marketing",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "dormant",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "email extractor",
+      "score": 8,
+      "category": "unnatural"
+    },
+    {
+      "term": "email harvest",
+      "score": 8,
+      "category": "unnatural"
+    },
+    {
+      "term": "email marketing",
+      "score": 7,
+      "category": "unnatural"
+    },
+    {
+      "term": "extract email",
+      "score": 8,
+      "category": "unnatural"
+    },
+    {
+      "term": "form",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "freedom",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "friend",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "home",
+      "score": 1,
+      "category": "unnatural"
+    },
+    {
+      "term": "home based",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "if you no longer wish to receive",
+      "score": 8,
+      "category": "unnatural"
+    },
+    {
+      "term": "important information regarding",
+      "score": 6,
+      "category": "unnatural"
+    },
+    {
+      "term": "in accordance with laws",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "increase your sales",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "internet market",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "leave",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "lose",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "maintained",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "marketing",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "marketing solution",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "marketing solutions",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "medium",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "message contains",
+      "score": 6,
+      "category": "unnatural"
+    },
+    {
+      "term": "multi level marketing",
+      "score": 8,
+      "category": "unnatural"
+    },
+    {
+      "term": "never",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "one time mailing",
+      "score": 7,
+      "category": "unnatural"
+    },
+    {
+      "term": "online marketing",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "online pharmacy",
+      "score": 9,
+      "category": "unnatural"
+    },
+    {
+      "term": "opt in",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "per day",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "per week",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "pre-approved",
+      "score": 5,
+      "category": "unnatural"
+    },
+    {
+      "term": "problem",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "removal",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "remove",
+      "score": 4,
+      "category": "unnatural"
+    },
+    {
+      "term": "reserves the right",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "reverses",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "sample",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "satisfaction",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "score",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "search engine",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "search engine listings",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "search engines",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "solution",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "stop",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "success",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "teen",
+      "score": 1,
+      "category": "unnatural"
+    },
+    {
+      "term": "terms and conditions",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "warranty",
+      "score": 2,
+      "category": "unnatural"
+    },
+    {
+      "term": "web traffic",
+      "score": 3,
+      "category": "unnatural"
+    },
+    {
+      "term": "wife",
+      "score": 1,
+      "category": "unnatural"
+    }
   ]
-} 
+}
