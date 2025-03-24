@@ -13,6 +13,7 @@ import {
   calculateOverallScore
 } from '../utils/spamDetector';
 import { SpamWord, HighlightedText as HighlightedTextType } from '../types';
+import Script from 'next/script';
 
 export default function Home() {
   const [text, setText] = useState('');
@@ -43,6 +44,28 @@ export default function Home() {
   return (
     <>
       <Header />
+      
+      <Script id="schema-structured-data" type="application/ld+json">
+        {JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "WebApplication",
+          "name": "Spam Words Detector",
+          "url": "https://spamdetector.yourdomain.com",
+          "description": "Free tool to detect spam words and phrases in your email marketing, website content, and social media posts.",
+          "applicationCategory": "BusinessApplication",
+          "operatingSystem": "Web",
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+          },
+          "creator": {
+            "@type": "Organization",
+            "name": "Blue Ocean Records LLC",
+            "url": "https://prodbycabo.com"
+          }
+        })}
+      </Script>
       
       <main className="container mx-auto px-4 py-6">
         <div className="mb-6 bg-white p-4 rounded-md border border-gray-200">

@@ -2,6 +2,16 @@ import React from 'react';
 import Link from 'next/link';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Terms and Conditions | Spam Words Detector',
+  description: 'Terms and Conditions for using the Spam Words Detector tool. Review our usage policies for our free spam content analysis service.',
+  keywords: 'terms and conditions, terms of service, usage terms, spam detector terms, service agreement',
+  alternates: {
+    canonical: 'https://spamdetector.yourdomain.com/terms',
+  },
+};
 
 export default function TermsPage() {
   return (

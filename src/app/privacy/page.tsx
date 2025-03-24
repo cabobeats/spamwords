@@ -2,6 +2,16 @@ import React from 'react';
 import Link from 'next/link';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Privacy Policy | Spam Words Detector',
+  description: 'Privacy Policy for the Spam Words Detector tool. Learn how we protect your data and privacy when using our free spam content analysis tool.',
+  keywords: 'privacy policy, spam detector privacy, data protection, privacy terms, spam analysis privacy',
+  alternates: {
+    canonical: 'https://spamdetector.yourdomain.com/privacy',
+  },
+};
 
 export default function PrivacyPage() {
   return (
