@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://spamdetector.yourdomain.com/sitemap.xml',
+    sitemap: 'https://spamdetector.cabobeats.com/sitemap.xml',
   };
 } 

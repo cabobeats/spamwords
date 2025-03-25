@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: 'Privacy Policy for the Spam Words Detector tool. Learn how we protect your data and privacy when using our free spam content analysis tool.',
   keywords: 'privacy policy, spam detector privacy, data protection, privacy terms, spam analysis privacy',
   alternates: {
-    canonical: 'https://spamdetector.yourdomain.com/privacy',
+    canonical: 'https://spamdetector.cabobeats.com/privacy',
   },
 };
 

@@ -16,13 +16,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://spamdetector.yourdomain.com",
+    url: "https://spamdetector.cabobeats.com",
     siteName: "Spam Words Detector",
     title: "Spam Words Detector | Free Email & Content Analysis Tool",
     description: "Analyze your content for spam triggers that could affect email deliverability and engagement. Free spam words detection tool.",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "https://spamdetector.cabobeats.com/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Spam Words Detector Preview"
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Spam Words Detector | Free Email & Content Analysis Tool",
     description: "Analyze your content for spam triggers that could affect email deliverability and engagement. Free spam words detection tool.",
-    images: ["/twitter-image.jpg"]
+    images: ["https://spamdetector.cabobeats.com/twitter-image.jpg"]
   }
 };
 
@@ -46,7 +46,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://spamdetector.yourdomain.com" />
+        <link rel="canonical" href="https://spamdetector.cabobeats.com" />
       </head>
       <body className={`${inter.className}`}>{children}</body>
     </html>

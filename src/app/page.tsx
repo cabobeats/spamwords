@@ -50,7 +50,7 @@ export default function Home() {
           "@context": "https://schema.org",
           "@type": "WebApplication",
           "name": "Spam Words Detector",
-          "url": "https://spamdetector.yourdomain.com",
+          "url": "https://spamdetector.cabobeats.com",
           "description": "Free tool to detect spam words and phrases in your email marketing, website content, and social media posts.",
           "applicationCategory": "BusinessApplication",
           "operatingSystem": "Web",
