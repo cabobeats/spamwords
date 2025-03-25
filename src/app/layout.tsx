@@ -17,13 +17,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://spamdetector.cabobeats.com",
-    siteName: "Spam Words Detector",
+    url: "https://spamwords.xyz",
+    siteName: "SpamWords.xyz",
     title: "Spam Words Detector | Free Email & Content Analysis Tool",
     description: "Analyze your content for spam triggers that could affect email deliverability and engagement. Free spam words detection tool.",
     images: [
       {
-        url: "https://spamdetector.cabobeats.com/og-image.jpg",
+        url: "https://spamwords.xyz/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Spam Words Detector Preview"
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Spam Words Detector | Free Email & Content Analysis Tool",
     description: "Analyze your content for spam triggers that could affect email deliverability and engagement. Free spam words detection tool.",
-    images: ["https://spamdetector.cabobeats.com/twitter-image.jpg"]
+    images: ["https://spamwords.xyz/twitter-image.jpg"]
   }
 };
 
@@ -47,7 +47,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://spamdetector.cabobeats.com" />
+        <link rel="canonical" href="https://spamwords.xyz" />
         <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%2360A5FA'><path d='M12 22C12 22 20 18 20 12V5L12 2L4 5V12C4 18 12 22 12 22Z' fill='%2360A5FA' stroke='%232563EB' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/><path d='M16 9L10.5 14.5L8 12' stroke='white' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/></svg>" />
       </head>
       <body className={`${inter.className}`}>

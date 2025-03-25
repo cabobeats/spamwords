@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: 'Terms and Conditions for using the Spam Words Detector tool. Review our usage policies for our free spam content analysis service.',
   keywords: 'terms and conditions, terms of service, usage terms, spam detector terms, service agreement',
   alternates: {
-    canonical: 'https://spamdetector.cabobeats.com/terms',
+    canonical: 'https://spamwords.xyz/terms',
   },
 };
 

@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://spamdetector.cabobeats.com';
+  const baseUrl = 'https://spamwords.xyz';
   const lastModified = new Date();
 
   return [
